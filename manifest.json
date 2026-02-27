@@ -1,29 +1,24 @@
 {
-  "name": "たべ実。",
-  "short_name": "たべ実。",
-  "description": "食べて痩せる実験ノート",
+  "name": "チャッピーに聞いて、ダイエットしてみた。",
+  "short_name": "チャッピーダイエット",
+  "description": "銀座ホステスの怜子がChatGPT（チャッピー）に相談しながら実践するリアルなダイエット体験記",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#F9E8E0",
-  "theme_color": "#F9E8E0",
-  "orientation": "portrait",
+  "background_color": "#fdf5f0",
+  "theme_color": "#fdf5f0",
+  "lang": "ja",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663367484481/EvpuvXlLLwJsYjCf.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663367484481/UHMIeVoRWmhwqYhO.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    },
-    {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
     }
   ]
 }
